@@ -11,6 +11,10 @@ import S2 from "./Learning/State/S2";
 import E3 from "./Learning/Events/E3";
 import E4 from "./Learning/Events/E4";
 import S3 from "./Learning/State/S3";
+import Hof1 from "./Learning/HOF/Hof1";
+import Hof2 from "./Learning/HOF/Hof2";
+import Hof3 from "./Learning/HOF/Hof3";
+import Js2 from "./Learning/JS/Js2";
 
 
 
@@ -34,7 +38,11 @@ export default function App() {
         {/* <S2 /> */}
         {/* <E3 /> */}
         {/* <E4 /> */}
-        <S3 />
+        {/* <S3 /> */}\
+        {/* <Hof1 />  */}
+        {/* <Hof2 />  */}
+        {/* <Hof3 />  */}
+        <Js2/>
       </div>
     </>
   )
